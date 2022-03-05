@@ -1,7 +1,7 @@
 ## Hello, I'm Ana Lídia 👋🏽  
 - 💻 I'm a mobile developer 
 - 📚 Studying Digital Systems and Media - [UFC](https://smd.ufc.br/pt/)
-- 👩‍💻 Currently interning at Lead Dell
+- 👩‍💻 Currently working at Escola Conquer
 - 🙎🏽‍♀️ Pronouns: she/her
 
 <div align="center">
