@@ -12,7 +12,6 @@ I'm a Software Developer. Currently, I am working as a React Native developer, b
 📚 Studying Digital Systems and Media - [UFC](https://smd.ufc.br/pt/)
 
   ## 💻 Skills
-  <br>
 <p>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px"/>
@@ -24,13 +23,10 @@ I'm a Software Developer. Currently, I am working as a React Native developer, b
 </p>
   
  ## GitHub Stats 📈
-  <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidslira&theme=dark&layout=compact)
 
 ## 👥 Connect With Me 
-<br>
-
 <base target="_blank" rel="noopener noreferrer">
 <div> 
  	<a href = "mailto:analidialirar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
