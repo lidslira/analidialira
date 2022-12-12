@@ -1,23 +1,23 @@
-## Hello, I'm Ana Lídia 👋🏽  
-- 💻 I'm a mobile developer 
-- 📚 Studying Digital Systems and Media - [UFC](https://smd.ufc.br/pt/)
-- 👩‍💻 Currently working at Escola Conquer
-- 🙎🏽‍♀️ Pronouns: she/her
+<h2 align="center">Hi there! I'm Ana Lídia &nbsp;<img height="24px" src="https://user-images.githubusercontent.com/9582465/142705235-0fffaeb5-c931-4619-aa93-94e859f6122b.gif" width="30px"></h2> 
 
-<div align="center">
-  <a href="https://github.com/lidslira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lidslira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidslira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lid-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lid-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lid-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lid-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/695056694853501032/910328138339336213/gif_lids_avatar.gif">
-</div>
+<h3>💭 About me </h3>
+- I'm a Software Developer. Currently, I am working as a React Native developer, but I am also very interested in Native Development (Swift) and i'm having a bunch of fun making some personal projects using it.
+-  📚 Studying Digital Systems and Media - [UFC](https://smd.ufc.br/pt/)
+
+  <h3>💻 Skills </h3>
+<p>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px"/>
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" style="margin-bottom: 4px" height="30px"  />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" style="margin-bottom: 4px;" height="30px"  />
+</p>
   
+  <h3>GitHub Stats 📈</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidslira&theme=dark&layout=compact)
+
   ##
 <base target="_blank" rel="noopener noreferrer">
 <div> 
